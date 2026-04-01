@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sinu
 
-💻 Passionate about coding, problem solving, and building cool things
+💻 Passionate about cyber security vapt, coding, problem solving, and building cool things
 🚀 Always learning new technologies and improving my skills
 🌱 Currently exploring **full-stack development & modern frameworks**
 
