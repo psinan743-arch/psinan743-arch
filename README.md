@@ -72,7 +72,7 @@
 ---
 
 ⭐️ *Feel free to explore my repositories and connect!*
-## Hi there 👋
+
 
 <!--
 **psinan743-arch/psinan743-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
